@@ -1,4 +1,4 @@
-const { Business, Cart, Product, User } = require('../models');
+ const { Business, Cart, Product, User } = require('../models');
 
 const resolvers = {
     Query: {
